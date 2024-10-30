@@ -8,7 +8,7 @@ The "Amazon Sales Analysis" project is a Python-based data analysis initiative u
 ## Findings
 
 ### 1. Popular Product Sizes
-![Size Distribution](plots/output.png)  
+![Size Distribution](output.png)  
 - **Insight**: Medium (M) size products are the top choice, showing a strong customer preference for this size.
 - **Recommendation**: Increase stock for M-size products, especially during peak demand periods, to capitalize on customer preference.
 
